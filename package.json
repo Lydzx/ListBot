@@ -17,7 +17,8 @@
     "dotenv": "^8.2.0",
     "mongoose": "^5.10.7",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6"
+    "request-promise": "^4.2.6",
+    "weather.js": "2.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.11.6",
